@@ -1,0 +1,179 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background: red;
+    background: -webkit-linear-gradient(lightblue, lightpink);
+    background: -o-linear-gradient(lightblue, lightpink);
+    background: -moz-linear-gradient(lightblue, lightpink);
+    background: linear-gradient(lightblue, lightpink);
+}
+@media only screen and (min-device-width: 961px) {
+.banner
+{
+	border-radius: 25px;
+	z-index: -1;
+	height: 10%;
+	width: auto;
+	position: relative;
+	top: 10px;
+}
+
+.welcome
+{
+	height: auto;
+	width: 50%;
+	float: right;
+	left: 150px;
+	font-size: 16pt;
+	
+}
+
+.funny
+{
+	height: auto;
+	width: 50%;
+	float: right;
+	text-align: center;
+	font-size: 16pt;
+}
+
+
+ul
+{
+	display: inline;
+	list-style-type: none;
+}
+
+li
+{
+	display: inline;
+	border: medium solid black;
+	font-size: 16pt;
+	color: black;
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+	margin-left: 3%;
+	padding: 0px;
+}
+
+h1
+{
+	text-align: center;
+	font-size: 30pt;
+	height: 10%;
+	width: auto;
+}
+
+li a:link
+{
+	color: black;
+}
+
+li a:visited
+{
+	background-color: green;
+	color: white;
+	
+}
+
+li a:hover
+{
+	background-color: red;
+	color: white;
+}
+
+li a:active
+{
+	background-color: blue;
+	color: white;
+}
+
+#Games1
+{
+	height: auto;
+	width: 33%;
+	text-align: center;
+	float: right;
+}
+
+#Games2
+{
+	height: auto;
+	width: 33%;
+	text-align: center;
+	float: right;
+	font-size: 9pt;
+}
+
+#Games3
+{
+	height: auto;
+	width: 33%;
+	text-align: center;
+	float: right;
+}
+
+#DVD1
+{
+	height: auto;
+	width: 33%;
+	text-align: center;
+	float: right;
+}
+
+#DVD2
+{
+	height: auto;
+	width: 33%;
+	text-align: center;
+	float: right;
+	font-size: 9pt;
+}
+
+#DVD3
+{
+	height: auto;
+	width: 33%;
+	text-align: center;
+	float: right;
+}
+
+#BluRay1
+{
+	height: auto;
+	width: 33%;
+	text-align: center;
+	float: right;
+}
+
+#BluRay2
+{
+	height: auto;
+	width: 33%;
+	text-align: center;
+	flaot: right;
+	font-size: 9pt;
+}
+
+#BluRay3
+{
+	height: auto;
+	width: 33%;
+	text-align: center;
+	float: right;
+}
+
+.About
+{
+	height: auto;
+	width: 33%;
+	float: center;
+}
+
+footer
+{
+	poistion: fixed;
+	text-align: center;
+}
+}
