@@ -23,7 +23,7 @@ body
 .welcome
 {
 	height: auto;
-	width: 50%;
+	width: 45%;
 	float: right;
 	left: 150px;
 	font-size: 16pt;
@@ -33,7 +33,7 @@ body
 .funny
 {
 	height: auto;
-	width: 50%;
+	width: 45%;
 	float: right;
 	text-align: center;
 	font-size: 16pt;
