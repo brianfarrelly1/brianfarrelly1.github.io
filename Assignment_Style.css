@@ -120,7 +120,7 @@ footer
 	width: 90%;
 	position: relative;
 	top: 10px;
-	padding-left: 10%;
+	padding-left: 5%;
 }
 
 .welcome, .funny
@@ -129,7 +129,7 @@ footer
 	width: 30%;
 	float: left;
 	font-size: 16pt;
-	margin: 25%;
+	margin: 10%;
 	
 }
 	
@@ -154,7 +154,7 @@ li
 	font-size: 16pt;
 	color: black;
 	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
-	margin-left: 5%;
+	margin: 5%;
 	padding: 0px;
 }
 
@@ -181,13 +181,12 @@ li a:active
 	color: white;
 }
 
-#Games1, #Games2, #Games3, #DVD1, #DVD2, #DVD3, #BluRay1, #BluRay2, #BluRay3
+.Game, .DVD, .BluRay
 {
 	height: 70%;
 	width: 30%;
 	text-align: center;
 	float: right;
-	margin: 10%;
 }
 
 .frame
@@ -196,11 +195,11 @@ li a:active
 	width: 90%;
 }
 
-.About
+.about
 {
 	height: 70%;
 	width: 33%;
-	float: center;
+	padding-left: 30%;
 }
 
 footer
@@ -223,7 +222,7 @@ footer
 	width: 90%;
 	position: relative;
 	top: 10px;
-	padding-left: 10%;
+	padding-left: 5%;
 }
 
 .welcome, .funny
@@ -232,7 +231,7 @@ footer
 	width: 30%;
 	float: left;
 	font-size: 16pt;
-	margin: 25%;
+	margin: 10%;
 	
 }
 	
@@ -257,7 +256,7 @@ li
 	font-size: 16pt;
 	color: black;
 	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
-	margin-left: 5%;
+	margin: 5%;
 	padding: 0px;
 }
 
@@ -284,13 +283,12 @@ li a:active
 	color: white;
 }
 
-#Games1, #Games2, #Games3, #DVD1, #DVD2, #DVD3, #BluRay1, #BluRay2, #BluRay3
+.Game, .DVD, .BluRay
 {
 	height: 70%;
 	width: 30%;
 	text-align: center;
 	float: right;
-	margin: 10%;
 }
 
 .frame
@@ -299,11 +297,11 @@ li a:active
 	width: 90%;
 }
 
-.About
+.about
 {
 	height: 70%;
 	width: 33%;
-	float: center;
+	padding-left: 30%;
 }
 
 footer
