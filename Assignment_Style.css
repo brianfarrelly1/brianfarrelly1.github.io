@@ -23,7 +23,7 @@ body
 .welcome
 {
 	height: 70%;
-	width: 45%;
+	width: 30%;
 	float: left;
 	left: 150px;
 	font-size: 16pt;
@@ -33,7 +33,7 @@ body
 .funny
 {
 	height: 70%;
-	width: 45%;
+	width: 30%;
 	float: right;
 	text-align: center;
 	font-size: 16pt;
@@ -175,5 +175,351 @@ footer
 {
 	poistion: fixed;
 	text-align: center;
+	clear: both;
 }
+}
+
+@media only screen and (max-device-width: 480px) {
+	
+.banner
+{
+	border-radius: 125px;
+	z-index: -1;
+	height: 10%;
+	width: 90%;
+	position: relative;
+	top: 10px;
+}
+
+.welcome
+{
+	height: 70%;
+	width: 30%;
+	float: left;
+	left: 150px;
+	font-size: 16pt;
+	
+}
+
+.funny
+{
+	height: 70%;
+	width: 30%;
+	float: right;
+	text-align: center;
+	font-size: 16pt;
+}
+
+
+ul
+{
+	display: inline;
+	list-style-type: none;
+}
+
+li
+{
+	display: inline;
+	border: medium solid black;
+	font-size: 16pt;
+	color: black;
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+	margin-left: 2%;
+	padding: 0px;
+}
+
+h1
+{
+	text-align: center;
+	font-size: 30pt;
+	height: 10%;
+	width: 90%;
+}
+
+li a:link
+{
+	color: black;
+}
+
+li a:visited
+{
+	background-color: green;
+	color: white;
+	
+}
+
+li a:hover
+{
+	background-color: red;
+	color: white;
+}
+
+li a:active
+{
+	background-color: blue;
+	color: white;
+}
+
+#Games1
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	float: right;
+}
+
+#Games2
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	float: right;
+	font-size: 9pt;
+}
+
+#Games3
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	float: right;
+}
+
+#DVD1
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	float: right;
+}
+
+#DVD2
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	float: right;
+	font-size: 9pt;
+}
+
+#DVD3
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	float: right;
+}
+
+#BluRay1
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	float: right;
+}
+
+#BluRay2
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	flaot: right;
+	font-size: 9pt;
+}
+
+#BluRay3
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	float: right;
+}
+
+.About
+{
+	height: 70%;
+	width: 33%;
+	float: center;
+}
+
+footer
+{
+	poistion: fixed;
+	text-align: center;
+	clear: both;
+}
+	
+}
+
+@media only screen and (min-device-width: 481px and max-device-width: 960px)
+{
+	
+.banner
+{
+	border-radius: 125px;
+	z-index: -1;
+	height: 10%;
+	width: 90%;
+	position: relative;
+	top: 10px;
+}
+
+.welcome
+{
+	height: 70%;
+	width: 30%;
+	float: left;
+	left: 150px;
+	font-size: 16pt;
+	
+}
+
+.funny
+{
+	height: 70%;
+	width: 30%;
+	float: right;
+	text-align: center;
+	font-size: 16pt;
+}
+
+
+ul
+{
+	display: inline;
+	list-style-type: none;
+}
+
+li
+{
+	display: inline;
+	border: medium solid black;
+	font-size: 16pt;
+	color: black;
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+	margin-left: 2%;
+	padding: 0px;
+}
+
+h1
+{
+	text-align: center;
+	font-size: 30pt;
+	height: 10%;
+	width: 90%;
+}
+
+li a:link
+{
+	color: black;
+}
+
+li a:visited
+{
+	background-color: green;
+	color: white;
+	
+}
+
+li a:hover
+{
+	background-color: red;
+	color: white;
+}
+
+li a:active
+{
+	background-color: blue;
+	color: white;
+}
+
+#Games1
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	float: right;
+}
+
+#Games2
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	float: right;
+	font-size: 9pt;
+}
+
+#Games3
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	float: right;
+}
+
+#DVD1
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	float: right;
+}
+
+#DVD2
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	float: right;
+	font-size: 9pt;
+}
+
+#DVD3
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	float: right;
+}
+
+#BluRay1
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	float: right;
+}
+
+#BluRay2
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	flaot: right;
+	font-size: 9pt;
+}
+
+#BluRay3
+{
+	height: 70%;
+	width: 30%;
+	text-align: center;
+	float: right;
+}
+
+.About
+{
+	height: 70%;
+	width: 33%;
+	float: center;
+}
+
+footer
+{
+	poistion: fixed;
+	text-align: center;
+	clear: both;
+}	
+	
 }
