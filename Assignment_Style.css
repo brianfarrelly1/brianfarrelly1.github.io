@@ -12,17 +12,17 @@ body
 @media only screen and (min-device-width: 961px) {
 .banner
 {
-	border-radius: 25px;
+	border-radius: 125px;
 	z-index: -1;
 	height: 10%;
-	width: auto;
+	width: 90%;
 	position: relative;
 	top: 10px;
 }
 
 .welcome
 {
-	height: auto;
+	height: 70%;
 	width: 45%;
 	float: left;
 	left: 150px;
@@ -32,7 +32,7 @@ body
 
 .funny
 {
-	height: auto;
+	height: 70%;
 	width: 45%;
 	float: right;
 	text-align: center;
@@ -62,7 +62,7 @@ h1
 	text-align: center;
 	font-size: 30pt;
 	height: 10%;
-	width: auto;
+	width: 90%;
 }
 
 li a:link
@@ -91,7 +91,7 @@ li a:active
 
 #Games1
 {
-	height: auto;
+	height: 70%;
 	width: 33%;
 	text-align: center;
 	float: right;
@@ -99,7 +99,7 @@ li a:active
 
 #Games2
 {
-	height: auto;
+	height: 70%;
 	width: 33%;
 	text-align: center;
 	float: right;
@@ -108,7 +108,7 @@ li a:active
 
 #Games3
 {
-	height: auto;
+	height: 70%;
 	width: 33%;
 	text-align: center;
 	float: right;
@@ -116,7 +116,7 @@ li a:active
 
 #DVD1
 {
-	height: auto;
+	height: 70%;
 	width: 33%;
 	text-align: center;
 	float: right;
@@ -124,7 +124,7 @@ li a:active
 
 #DVD2
 {
-	height: auto;
+	height: 70%;
 	width: 33%;
 	text-align: center;
 	float: right;
@@ -133,7 +133,7 @@ li a:active
 
 #DVD3
 {
-	height: auto;
+	height: 70%;
 	width: 33%;
 	text-align: center;
 	float: right;
@@ -141,7 +141,7 @@ li a:active
 
 #BluRay1
 {
-	height: auto;
+	height: 70%;
 	width: 33%;
 	text-align: center;
 	float: right;
@@ -149,7 +149,7 @@ li a:active
 
 #BluRay2
 {
-	height: auto;
+	height: 70%;
 	width: 33%;
 	text-align: center;
 	flaot: right;
@@ -158,7 +158,7 @@ li a:active
 
 #BluRay3
 {
-	height: auto;
+	height: 70%;
 	width: 33%;
 	text-align: center;
 	float: right;
@@ -166,7 +166,7 @@ li a:active
 
 .About
 {
-	height: auto;
+	height: 70%;
 	width: 33%;
 	float: center;
 }
