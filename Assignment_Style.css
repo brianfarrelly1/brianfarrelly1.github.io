@@ -20,8 +20,7 @@ body
 	top: 10px;
 }
 
-.welcome,
-.funny
+.welcome, .funny
 {
 	height: 70%;
 	width: 30%;
@@ -79,7 +78,7 @@ li a:active
 	color: white;
 }
 
-#Games1 #Games2 #Games3 #DVD1 #DVD2 #DVD3 #BluRay1 #BluRay2 #BluRay3
+#Games1, #Games2, #Games3, #DVD1, #DVD2, #DVD3, #BluRay1, #BluRay2, #BluRay3
 {
 	height: 70%;
 	width: 30%;
@@ -116,8 +115,7 @@ footer
 	top: 10px;
 }
 
-.welcome,
-.funny
+.welcome, .funny
 {
 	height: 70%;
 	width: 30%;
@@ -175,7 +173,7 @@ li a:active
 	color: white;
 }
 
-#Games1 #Games2 #Games3 #DVD1 #DVD2 #DVD3 #BluRay1 #BluRay2 #BluRay3
+#Games1, #Games2, #Games3, #DVD1, #DVD2, #DVD3, #BluRay1, #BluRay2, #BluRay3
 {
 	height: 70%;
 	width: 30%;
@@ -213,8 +211,7 @@ footer
 	top: 10px;
 }
 
-.welcome,
-.funny
+.welcome, .funny
 {
 	height: 70%;
 	width: 30%;
@@ -272,7 +269,7 @@ li a:active
 	color: white;
 }
 
-#Games1 #Games2 #Games3 #DVD1 #DVD2 #DVD3 #BluRay1 #BluRay2 #BluRay3
+#Games1, #Games2, #Games3, #DVD1, #DVD2, #DVD3, #BluRay1, #BluRay2, #BluRay3
 {
 	height: 70%;
 	width: 30%;
